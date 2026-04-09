@@ -1,0 +1,548 @@
+[
+  {
+    "answer": "C",
+    "number": 1,
+    "options": {
+      "A": "Số sách Toán trong thư viện là 7 quyển",
+      "B": "Số sách Ngữ Văn nhiều hơn số sách Tin học là 2 quyển",
+      "C": "Tổng số sách trong thư viện là 21 quyển",
+      "D": "Số sách Khoa học tự nhiên nhiều hơn số sách Lịch sử và Địa lý là 8 quyển"
+    },
+    "question": "Biểu đồ dưới đây thể hiện số sách trong thư viện của một lớp. Khẳng định nào sau đây là đúng?",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "statistics"
+  },
+  {
+    "answer": "C",
+    "number": 2,
+    "options": {
+      "A": "20%",
+      "B": "7%",
+      "C": "28%",
+      "D": "30%"
+    },
+    "question": "Hình vẽ bên là biểu đồ về diện tích các châu lục trên thế giới. Hỏi châu Mỹ chiếm bao nhiêu phần trăm tổng diện tích của các châu lục?",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "statistics"
+  },
+  {
+    "answer": "B",
+    "number": 3,
+    "options": {
+      "A": "Biểu đồ cột đơn",
+      "B": "Biểu đồ cột kép",
+      "C": "Biểu đồ tranh",
+      "D": "Biểu đồ quạt tròn"
+    },
+    "question": "Thời gian tập luyện piano ở nhà các ngày trong tuần của hai bạn Huy và Hồng cho bởi bảng dưới đây. Với bảng thống kê trên, theo em biểu đồ nào sẽ phù hợp nhất để biểu diễn các dữ liệu trên?",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "data_visualization"
+  },
+  {
+    "answer": "C",
+    "number": 4,
+    "options": {
+      "A": "E(1; 2)",
+      "B": "F(1; 1)",
+      "C": "M(1; -1)",
+      "D": "N(2; 4)"
+    },
+    "question": "Đồ thị hàm số y = -3x + 2 đi qua điểm nào dưới đây?",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "functions"
+  },
+  {
+    "answer": "C",
+    "number": 5,
+    "options": {
+      "A": "-3",
+      "B": "3",
+      "C": "2",
+      "D": "-2"
+    },
+    "question": "Đường thẳng y = 2x + 3 có hệ số góc bằng:",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "functions"
+  },
+  {
+    "answer": "D",
+    "number": 6,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "5",
+      "D": "6"
+    },
+    "question": "Khi gieo một con xúc xắc, có bao nhiêu kết quả có thể xảy ra?",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "probability"
+  },
+  {
+    "answer": "A",
+    "number": 7,
+    "options": {
+      "A": "12/25",
+      "B": "13/25",
+      "C": "12/13",
+      "D": "25/13"
+    },
+    "question": "Nếu tung một đồng xu 25 lần liên tiếp, có 12 lần xuất hiện mặt N thì xác suất thực nghiệm của biến cố 'Mặt xuất hiện của đồng xu là mặt N' bằng bao nhiêu?",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "probability"
+  },
+  {
+    "answer": "D",
+    "number": 8,
+    "options": {
+      "A": "3/7",
+      "B": "5/8",
+      "C": "3/4",
+      "D": "2/5"
+    },
+    "question": "Một hộp chứa các quả bóng giống nhau có các màu xanh dương, cam và vàng. Trong 30 lần lấy bóng liên tiếp, quả bóng màu xanh dương xuất hiện 12 lần. Xác suất thực nghiệm của biến cố 'Quả bóng lấy ra là quả bóng màu xanh dương' là",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "probability"
+  },
+  {
+    "answer": "B",
+    "number": 9,
+    "options": {
+      "A": "1/2",
+      "B": "3/4",
+      "C": "4/3",
+      "D": "2"
+    },
+    "question": "Cho AB = 6 cm, AC = 8 cm. Tỉ số của hai đoạn thẳng AB, AC là:",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "D",
+    "number": 10,
+    "options": {
+      "A": "AB/AD = BC/DE",
+      "B": "AD/AE = AB/AC",
+      "C": "AB/AC = DB/CE = BC/DE",
+      "D": "AD/AE = DE/BC = AB/AC"
+    },
+    "question": "Cho hình vẽ bên, biết BC ∥ ED. Chọn khẳng định sai trong các khẳng định dưới đây.",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "D",
+    "number": 11,
+    "options": {
+      "A": "2,5 cm",
+      "B": "4,2 cm",
+      "C": "7 cm",
+      "D": "5,25 cm"
+    },
+    "question": "Cho hình vẽ bên, biết MN ∥ IK, MI = 3cm, HN = 7cm, NK = 5cm. Khi đó độ dài đoạn thẳng HM bằng:",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "C",
+    "number": 12,
+    "options": {
+      "A": "MP ∥ AC",
+      "B": "NP ∥ AB",
+      "C": "MN ∥ BC",
+      "D": "MP ∥ AN"
+    },
+    "question": "Cho hình vẽ dưới đây. Khẳng định nào sau đây là đúng?",
+    "source": "GK1_with_answer.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "C",
+    "number": 1,
+    "options": {
+      "A": "Các hạt mang điện tích dương",
+      "B": "Các electron",
+      "C": "Các nguyên tử",
+      "D": "Các hạt mang điện tích âm"
+    },
+    "question": "Loại hạt nào dưới đây khi chuyển động có hướng thì không tạo thành dòng điện?",
+    "source": "HK2_KHTN.pdf",
+    "subject": "Khoa học tự nhiên",
+    "type": "physics"
+  },
+  {
+    "answer": "B",
+    "number": 2,
+    "options": {
+      "A": "Làm nóng dây dẫn",
+      "B": "Làm các cơ co giật",
+      "C": "Làm quay động cơ",
+      "D": "Làm sáng bóng đèn"
+    },
+    "question": "Tác dụng sinh lý của dòng điện là",
+    "source": "HK2_KHTN.pdf",
+    "subject": "Khoa học tự nhiên",
+    "type": "physics"
+  },
+  {
+    "answer": "D",
+    "number": 3,
+    "options": {
+      "A": "Phân tử chuyển động không ngừng",
+      "B": "Phân tử chuyển động càng chậm thì nhiệt độ của vật càng thấp",
+      "C": "Giữa các phân tử có lực tương tác",
+      "D": "Giữa các phân tử cấu tạo nên vật không có khoảng cách"
+    },
+    "question": "Tính chất nào sau đây không phải là tính chất của phân tử?",
+    "source": "HK2_KHTN.pdf",
+    "subject": "Khoa học tự nhiên",
+    "type": "physics"
+  },
+  {
+    "answer": "C",
+    "number": 1,
+    "options": {
+      "A": "Doanh thu ngay 1",
+      "B": "Doanh thu ngay 3",
+      "C": "Doanh thu ngay 2",
+      "D": "Doanh thu ngay 4"
+    },
+    "question": "Thong ke so luong xe may ban (loai xe co gia che nam 50 trieu dong/xe) va doanh thu moi ngay. So lieu trong bang ban khong hop le la:",
+    "source": "GK1_with_answer_2.pdf",
+    "subject": "Toán",
+    "type": "data_analysis"
+  },
+  {
+    "answer": "C",
+    "number": 2,
+    "options": {
+      "A": "90",
+      "B": "100",
+      "C": "110",
+      "D": "120"
+    },
+    "question": "So tien thu thue nhap co nhan khi muc thu nhap chu thu trong khoan tu 60 trieu dong den 120 trieu dong la y = 0,1x - 3. Neu mot nguoi phi dong 8 trieu dong tien thu thue nhap co nhan thi muc thu nhap chu thu cua nguoi do la bao nhieu trieu dong?",
+    "source": "GK1_with_answer_2.pdf",
+    "subject": "Toán",
+    "type": "functions"
+  },
+  {
+    "answer": "B",
+    "number": 3,
+    "options": {
+      "A": "f(-1) = 7",
+      "B": "Goc tao boi (d) va truc Ox la goc nhan",
+      "C": "Diem M(2; -2) nam tren duong thang d",
+      "D": "(d) cat (d'): y = x + 8 tai diem N(-1; 7)"
+    },
+    "question": "Cho ham so y = f(x) = 4 - 3x, co do thi la duong thang (d). Khang dinh nao sau day SAI?",
+    "source": "GK1_with_answer_2.pdf",
+    "subject": "Toán",
+    "type": "functions"
+  },
+  {
+    "answer": "B",
+    "number": 4,
+    "options": {
+      "A": "P(-3; 0)",
+      "B": "P(0; -3)",
+      "C": "P(-1; 0)",
+      "D": "P(0; -1)"
+    },
+    "question": "Tren mat phang toa do Oxy, cho cac diem M(4; 3), N(4; -1), Q(0; 3). De tu giac MNPQ la hinh vuong thi diem P co toa do la bao nhieu?",
+    "source": "GK1_with_answer_2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "C",
+    "number": 5,
+    "options": {
+      "A": "BQ/BP = PQ/AC (neu PQ // AC)",
+      "B": "AP/QB = PQ/AC (neu PQ // AC)",
+      "C": "BC/AP = QC (neu PQ // AC)",
+      "D": "BP/PA = PQ/AC (neu PQ // AC)"
+    },
+    "question": "Cho hinh ve, khang dinh SAI la:",
+    "source": "GK1_with_answer_2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "A",
+    "number": 6,
+    "options": {
+      "A": "18",
+      "B": "10",
+      "C": "8",
+      "D": "80"
+    },
+    "question": "Cho hinh ve: Biet MN = 4, MO = 3, OA = 6, OB = x, AB = y. Gia tri bieu thuc x + y la:",
+    "source": "GK1_with_answer_2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "B",
+    "number": 1,
+    "options": {
+      "A": "y = 2 - 1/x",
+      "B": "y = 3 - 4x",
+      "C": "y = x² + 2",
+      "D": "y = √x + 1"
+    },
+    "question": "Trong cac ham so sau, ham so nao la ham so bac nhat?",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "functions"
+  },
+  {
+    "answer": "B",
+    "number": 2,
+    "options": {
+      "A": "(-2; -4)",
+      "B": "(-2; 4)",
+      "C": "(2; -4)",
+      "D": "(2; 4)"
+    },
+    "question": "Toa giao diem cua do thi ham so y = x + 2 va do thi ham so y = 2 la:",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "functions"
+  },
+  {
+    "answer": "A",
+    "number": 3,
+    "options": {
+      "A": "d': y = -2x + 1",
+      "B": "d': y = -2x + 3",
+      "C": "d': y = 2x - 3",
+      "D": "d': y = 3x - 2"
+    },
+    "question": "Duong thang d: y = -2x + 3 song song voi duong thang nao sau day?",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "functions"
+  },
+  {
+    "answer": "B",
+    "number": 4,
+    "options": {
+      "A": "2x + 3/7 = 0",
+      "B": "-2x + 5 = 3x²",
+      "C": "-6x + 5 = 3x",
+      "D": "x = 3x + 2"
+    },
+    "question": "Phuong trinh nao sau day khong phai la phuong trinh bac nhat mot an?",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "equations"
+  },
+  {
+    "answer": "D",
+    "number": 5,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "question": "Nghiem cua phuong trinh 7x - 1 = 6x + 3 la:",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "equations"
+  },
+  {
+    "answer": "C",
+    "number": 6,
+    "options": {
+      "A": "x - 15 (km/h)",
+      "B": "15x (km/h)",
+      "C": "x + 15 (km/h)",
+      "D": "15 - x (km/h)"
+    },
+    "question": "Xe thu nhat di nhanh hon xe thu hai 15km/h. Neu goi van toc xe thu hai la x (km/h) thi van toc xe thu nhat la:",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "equations"
+  },
+  {
+    "answer": "B",
+    "number": 7,
+    "options": {
+      "A": "AF",
+      "B": "BE",
+      "C": "EF",
+      "D": "AD"
+    },
+    "question": "Trong hinh sau day, duong trung tuyen cua tam giac ABC la?",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "C",
+    "number": 8,
+    "options": {
+      "A": "MC/AC = AN/NB",
+      "B": "AM/MN = MN/BC",
+      "C": "AM/MB = AN/NC",
+      "D": "AM/MC = AN/NB"
+    },
+    "question": "Cho ABC co MN // BC nhu hinh ve. Theo dinh ly Thales, ta co:",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "D",
+    "number": 9,
+    "options": {
+      "A": "CE/CD = CB/CA",
+      "B": "BE/CB = AC/AD",
+      "C": "CE/BE = AC/AD",
+      "D": "CD/DA = ED/AB"
+    },
+    "question": "Cho hinh ve. Khang dinh nao sau day KHONG dung?",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "C",
+    "number": 10,
+    "options": {
+      "A": "7/15",
+      "B": "1/7",
+      "C": "15/7",
+      "D": "1/15"
+    },
+    "question": "Hay chon cau dung. Ti so x cac doan thang trong hinh ve, biet rang cac so tren hinh cung co don vi la cm.",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "A",
+    "number": 11,
+    "options": {
+      "A": "MN/QR = NP/RS",
+      "B": "MN/QR = NP/QS",
+      "C": "MN/QR = MP/RS",
+      "D": "MN/QS = NP/RS"
+    },
+    "question": "Cho tam giac MNP dong dang voi tam giac QRS, hay chon dap an dung:",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "C",
+    "number": 12,
+    "options": {
+      "A": "1",
+      "B": "1/2",
+      "C": "2",
+      "D": "4"
+    },
+    "question": "Neu tam giac ABC dong dang voi tam giac DEF theo ti so 1 thi tam giac DEF dong dang voi tam giac ABC theo ti so:",
+    "source": "HK2.pdf",
+    "subject": "Toán",
+    "type": "geometry"
+  },
+  {
+    "answer": "D",
+    "number": 1,
+    "options": {
+      "A": "Muoi nen",
+      "B": "Hiro",
+      "C": "Photpho",
+      "D": "O va i"
+    },
+    "question": "Trong cac chat sau, chat nao la chat hop?",
+    "source": "On_thi_gk2.pdf",
+    "subject": "Hóa học",
+    "type": "chemistry"
+  },
+  {
+    "answer": "B",
+    "number": 2,
+    "options": {
+      "A": "1 chat don va 5 hop chat",
+      "B": "2 chat don va 4 hop chat",
+      "C": "3 chat don va 3 hop chat",
+      "D": "4 chat don va 2 hop chat"
+    },
+    "question": "Cho cong thuc hoa hoc cua cac chat sau: CaC2; Cu; KOH; Br2; H2SO4; AlCl3. So chat la chat don va hop chat la:",
+    "source": "On_thi_gk2.pdf",
+    "subject": "Hóa học",
+    "type": "chemistry"
+  },
+  {
+    "answer": "C",
+    "number": 3,
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "question": "Mot oxit co cong thuc Al2Ox, phan tu khoi la 102 u. Hoa tri cua Al trong cong thuc la:",
+    "source": "On_thi_gk2.pdf",
+    "subject": "Hóa học",
+    "type": "chemistry"
+  },
+  {
+    "answer": "D",
+    "number": 4,
+    "options": {
+      "A": "CaPO4",
+      "B": "Ca2PO4",
+      "C": "Ca3PO4",
+      "D": "Ca3(PO4)2"
+    },
+    "question": "Biet hoa tri cua Ca (II) va PO4 (III). Vay cong thuc hoa hoc dung la:",
+    "source": "On_thi_gk2.pdf",
+    "subject": "Hóa học",
+    "type": "chemistry"
+  },
+  {
+    "answer": "B",
+    "number": 5,
+    "options": {
+      "A": "NaO",
+      "B": "Na2O",
+      "C": "Na2O3",
+      "D": "Na3O2"
+    },
+    "question": "Chon cong thuc hoa hoc dung trong cac cong thuc hop chat co phan tu gom Na va O sau:",
+    "source": "On_thi_gk2.pdf",
+    "subject": "Hóa học",
+    "type": "chemistry"
+  },
+  {
+    "answer": "B",
+    "number": 6,
+    "options": {
+      "A": "X3Y2",
+      "B": "X2Y3",
+      "C": "XY",
+      "D": "XY3"
+    },
+    "question": "Cho biet cong thuc hoa hoc cua X voi oxi la XO va cong thuc hoa hoc cua Y voi hiro la YH3. Vay cong thuc hoa hoc cua hop chat gia X va Y la:",
+    "source": "On_thi_gk2.pdf",
+    "subject": "Hóa học",
+    "type": "chemistry"
+  }
+]
